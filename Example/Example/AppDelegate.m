@@ -19,12 +19,4 @@
     return YES;
 }
 
-- (void)test {
-    NSLog(@"this is test");
-}
-
-- (void)test1 {
-    NSLog(@"this is test");
-}
-
 @end
