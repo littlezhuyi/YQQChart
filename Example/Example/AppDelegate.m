@@ -19,4 +19,8 @@
     return YES;
 }
 
+- (void)test1 {
+    NSLog(@"测试方法一");
+}
+
 @end
